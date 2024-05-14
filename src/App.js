@@ -1,10 +1,10 @@
-import Calculator from './componenets/Calculator';
 import './App.css';
+import RestaurantList from './Component/RestaurantList';
 
 function App() {
   return (
     <div className="App">
-      <Calculator/>
+      <RestaurantList />
     </div>
   );
 }
